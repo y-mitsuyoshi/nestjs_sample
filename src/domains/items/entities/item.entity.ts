@@ -1,1 +1,1 @@
-export class Item {}
+export class ItemEntity {}
